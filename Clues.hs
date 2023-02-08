@@ -20,7 +20,7 @@ clues
   -- Reversals...
      -- edam [reversal of MADE]
      ("Cheese made from east to west",4), 
-     -- diaper [reversal of DIAPER]
+     -- repaid [reversal of DIAPER]
      ("Recompensed for returning nappy", 6), 
  
   -- Envelope insertions (i.e. of the form X around Y)...
